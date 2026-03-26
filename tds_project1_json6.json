@@ -1,0 +1,6 @@
+{
+  "prompt": "your full prompt here",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "An overly complex key fits only one lock while failing to open many others, representing lack of generalization"
+}
