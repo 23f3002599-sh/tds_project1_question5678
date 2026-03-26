@@ -1,6 +1,6 @@
 {
-  "prompt": "your full prompt here",
-  "model": "DALL·E 3",
+  "prompt": "A tailor making a suit that fits one person perfectly but looks terrible on everyone else",
+  "model": "Flux",
   "concept": "Overfitting",
-  "metaphor": "An overly complex key fits only one lock while failing to open many others, representing lack of generalization"
+  "metaphor": "https://archive.ics.uci.edu/ml/datasets/iris"
 }
