@@ -1,0 +1,7 @@
+{
+  "prompt": "your full prompt here",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions Dataset",
+  "dataset_url": "https://example.com",
+  "insight": "Human activity has rapidly increased CO2 levels beyond natural limits"
+}
