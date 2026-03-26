@@ -1,7 +1,7 @@
 {
-  "prompt": "your full prompt here",
-  "model": "DALL·E 3",
+  "prompt": "A surreal image of the Earth melting like a candle, wax dripping into darkness, glowing red heat cracks spreading across continents, representing rising global temperatures, cinematic lighting, highly detailed, emotional, no text, no charts, no labels",
+  "model": "Flux",
   "dataset_name": "Global CO2 Emissions Dataset",
-  "dataset_url": "https://example.com",
+  "dataset_url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
   "insight": "Human activity has rapidly increased CO2 levels beyond natural limits"
 }
