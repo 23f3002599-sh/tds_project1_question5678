@@ -1,6 +1,6 @@
 {
-  "prompt": "your full prompt",
-  "model": "DALL·E 3",
+  "prompt": "A surreal yet realistic architectural scene showing two separate staircases where people are climbing upward confidently, each staircase appearing to rise independently, but when viewed together they connect into a larger structure that spirals downward, impossible geometry, Escher-like but realistic lighting, cinematic, no text, no symbols, no diagrams",
+  "model": "Flux",
   "paradox": "Simpson's Paradox",
   "visual_logic": "Two groups independently appear to move upward, but together form a downward structure, showing local trends reversing when combined"
 }
